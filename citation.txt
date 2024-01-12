@@ -1,0 +1,7 @@
+@article{REPO265,
+    author = "Shang, Xiaojun and Mao, Yingling and Liu, Yu and Huang, Yaodong and Liu, Zhen and Yang, Yuanyuan",
+    journal = "IEEE INFOCOM 2023 - IEEE Conference on Computer Communications",
+    pages = "1-10",
+    title = "{Online Container Scheduling for Data-intensive Applications in Serverless Edge Computing}",
+    year = "2023"
+}
